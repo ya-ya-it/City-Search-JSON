@@ -1,3 +1,3 @@
 # Lab 2
-##Student num: 200335788<br />
-##Name: Daria Davydenko
+## Student num: 200335788<br />
+## Name: Daria Davydenko
